@@ -8,16 +8,16 @@ product1= [{
     "link":"https://www.amazon.in/"
 },{
     "id":1,
-    "title":"shirt",
-    "price":"Rs.473",
+    "title":"facewash",
+    "price":"&#x20b9 187",
     "description":"GRITSMAD Men's Slim Fit Cotton Full Sleeve Casual Shirt White",
-    "brand":"GRITSMAD",
-    "image":"shirt1.jpeg",
-    "link":"https://amzn.eu/d/bOgSiOZ "
+    "brand":"himalaya",
+    "image":"facewash.jpg",
+    "link":"https://amzn.eu/d/gGPVcfN"
 },{
     "id":2,
     "title":"jewellery",
-    "price":"300",
+    "price":"&#x20b9 300",
     "description":"amazon suti",
     "brand":"anarkali",
     "image":"bg2.jpg" ,
@@ -25,7 +25,7 @@ product1= [{
 },{
     "id":3,
     "title":"shoes",
-    "price":"400",
+    "price":"&#x20b9 400",
     "description":"amazon cotton",
     "brand":"baby wear",
     "image":"skin2.jpg" ,
@@ -33,7 +33,7 @@ product1= [{
 },{
     "id":4,
     "title":"belt",
-    "price":"500",
+    "price":"&#x20b9 500",
     "description":"amazon cotton size-28 ",
     "brand":"denim",
     "image":"wash.jpg",
@@ -43,7 +43,7 @@ product1= [{
 {
     "id":5,
     "title":"socks",
-    "price":"500",
+    "price":"&#x20b9 500",
     "description":"amazon cotton size-28 ",
     "brand":"denim",
     "image":"jeans.avif",
@@ -63,16 +63,16 @@ product2= [{
     "link":"https://www.amazon.in/"
 },{ 
     "id":1,
-"title":"shirt",
-"price":"595",
+"title":"fashwash",
+"price":"&#x20b9 595",
 "description":"Style Code-TS-SHIRT1083, Secondary Color-White,Closure-BUTTON, Fit-Slim,Fabric-Pure Cotton,Sleeve-Full Sleeve",
-"brand":"tanip",
-"image":"shirt.jpeg",
+"brand":"himalaya",
+"image":"facewash.jpg",
 "link":"https://dl.flipkart.com/dl/tanip-men-solid-casual-white-shirt/p/itmd7ac59f3558d1?pid=SHTG9UJFPDNUZDKH&cmpid=product.share.pp&_refId=PP.3c3256a3-cb75-46d3-a883-1137e4c9550c.SHTG9UJFPDNUZDKH&_appId=WA "
 },{
     "id":2,
     "title":"jewellery",
-    "price":"300",
+    "price":"&#x20b9 300",
     "description":"amazon suti",
     "brand":"anarkali",
     "image":"bg2.jpg" ,
@@ -80,7 +80,7 @@ product2= [{
 },{
     "id":3,
     "title":"shoes",
-    "price":"400",
+    "price":"&#x20b9 400",
     "description":"amazon cotton",
     "brand":"baby wear",
     "image":"skin2.jpg" ,
@@ -88,7 +88,7 @@ product2= [{
 },{
     "id":4,
     "title":"belt",
-    "price":"500",
+    "price":"&#x20b9 500",
     "description":"amazon cotton size-28 ",
     "brand":"pusha",
     "image":"wash.jpg",
@@ -98,7 +98,7 @@ product2= [{
 {
     "id":5,
     "title":"socks",
-    "price":"500",
+    "price":"&#x20b9 500",
     "description":"amazon cotton size-28 ",
     "brand":"denim",
     "image":"jeans.avif",
@@ -118,17 +118,17 @@ product3= [{
     "link":"https://www.amazon.in/"
 },{
     "id":1,
-    "title":"shirt",
-    "price":"349",
+    "title":"facewash",
+    "price":"&#x20b9 349",
     "description":"White solid opaque Casual shirt ,has a spread collar, button placket, 1 patch pocket, long roll-up sleeves, curved hem",
-    "brand":"Dennis Lingo",
-    "image":"shirt1.jpeg",
-    "link":"https://www.myntra.com/topwear/dennis-lingo/dennis-lingo-men-white-modern-slim-fit-opaque-casual-shirt/15187584/"
+    "brand":"himalaya",
+    "image":"facewash.jpg",
+    "link":"https://www.myntra.com/skin-care/himalaya/himalaya-purifying-neem-face-wash-200ml/6628423/buy"
     
 },{
     "id":2,
     "title":"jewellery",
-    "price":"300",
+    "price":"&#x20b9 300",
     "description":"amazon suti",
     "brand":"anarkali",
     "image":"bg2.jpg" ,
@@ -136,7 +136,7 @@ product3= [{
 },{
     "id":3,
     "title":"shoes",
-    "price":"400",
+    "price":"&#x20b9 400",
     "description":"amazon cotton",
     "brand":"baby wear",
     "image":"skin2.jpg" ,
@@ -144,7 +144,7 @@ product3= [{
 },{
     "id":4,
     "title":"belt",
-    "price":"500",
+    "price":"&#x20b9 500",
     "description":"amazon cotton size-28 ",
     "brand":"jordan",
     "image":"wash.jpg",
@@ -154,7 +154,7 @@ product3= [{
 {
     "id":5,
     "title":"socks",
-    "price":"500",
+    "price":"&#x20b9 500",
     "description":"amazon cotton size-28 ",
     "brand":"denim",
     "image":"jeans.avif",
