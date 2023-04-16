@@ -12,8 +12,8 @@ product1= [{
     "price":"300",
     "description":"amazon suti",
     "brand":"anarkali",
-    "image":"bg1.jpg",
-    "link":"https://www.amazon.in/"
+    "image":"showpeice.jpg",
+    "link":"https://amzn.eu/d/5xehnB0"
 },{
     "id":2,
     "title":"jewellery",
@@ -67,7 +67,7 @@ product2= [{
     "price":"300",
     "description":"amazon suti",
     "brand":"amra",
-    "image":"bg1.jpg",
+    "image":"showpeice.jpg",
     "link":"https://www.amazon.in/"
 },{
     "id":2,
@@ -122,7 +122,7 @@ product3= [{
     "price":"300",
     "description":"amazon suti",
     "brand":"anarkali",
-    "image":"bg1.jpg",
+    "image":"showpeice.jpg",
     "link":"https://www.amazon.in/"
 },{
     "id":2,
