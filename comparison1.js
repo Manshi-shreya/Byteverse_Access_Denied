@@ -61,14 +61,14 @@ product2= [{
     "brand":"",
     "image":"",
     "link":"https://www.amazon.in/"
-},{
+},{ 
     "id":1,
-    "title":"shirt",
-    "price":"349 ",
-    "description":"White solid opaque Casual shirt ,has a spread collar, button placket, 1 patch pocket, long roll-up sleeves, curved hem",
-    "brand":"Dennis Lingo",
-    "image":"shirt1.jpeg",
-    "link":""
+"title":"shirt",
+"price":"595",
+"description":"Style Code-TS-SHIRT1083, Secondary Color-White,Closure-BUTTON, Fit-Slim,Fabric-Pure Cotton,Sleeve-Full Sleeve",
+"brand":"tanip",
+"image":"shirt.jpeg",
+"link":"https://dl.flipkart.com/dl/tanip-men-solid-casual-white-shirt/p/itmd7ac59f3558d1?pid=SHTG9UJFPDNUZDKH&cmpid=product.share.pp&_refId=PP.3c3256a3-cb75-46d3-a883-1137e4c9550c.SHTG9UJFPDNUZDKH&_appId=WA "
 },{
     "id":2,
     "title":"jewellery",
@@ -119,11 +119,12 @@ product3= [{
 },{
     "id":1,
     "title":"shirt",
-    "price":"595",
-    "description":"Style Code-TS-SHIRT1083, Secondary Color-White,Closure-BUTTON, Fit-Slim,Fabric-Pure Cotton,Sleeve-Full Sleeve",
-    "brand":"tanip",
-    "image":"shirt.jpeg",
-    "link":"https://www.amazon.in/"
+    "price":"349 ",
+    "description":"White solid opaque Casual shirt ,has a spread collar, button placket, 1 patch pocket, long roll-up sleeves, curved hem",
+    "brand":"Dennis Lingo",
+    "image":"shirt1.jpeg",
+    "link":"https://www.myntra.com/topwear/dennis-lingo/dennis-lingo-men-white-modern-slim-fit-opaque-casual-shirt/15187584/"
+    
 },{
     "id":2,
     "title":"jewellery",
