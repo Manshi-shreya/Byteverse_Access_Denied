@@ -9,8 +9,8 @@ product1= [{
 },{
     "id":1,
     "title":"Facewash",
-    "price":"&#x20b9 179",
-    "description":"amazon suti",
+    "price":"&#x20b9 187",
+    "description":"Moisten face, apply a small quantity of Purifying Neem Face Wash and gently work up a lather using a circular motion",
     "brand":"himalaya",
     "image":"facewash.jpg",
     "link":"https://amzn.eu/d/5xehnB0"
@@ -25,15 +25,15 @@ product1= [{
 },{
     "id":3,
     "title":"lipbalm",
-    "price":"400",
+    "price":" &#x20b9 74",
     "description":"amazon cotton",
     "brand":"baby wear",
-    "image":"skin2.jpg" ,
-    "link":"https://www.amazon.in/"
+    "image":"lipbalm.jpg" ,
+    "link":"https://www.amazon.in/dp/B09BFYV375?ref_=cm_sw_r_mwn_dp_2DHGZQ8CPJX12P71ZXKF"
 },{
     "id":4,
     "title":"Fask mask",
-    "price":"500",
+    "price":" &#x20b9 500",
     "description":"amazon cotton size-28 ",
     "brand":"denim",
     "image":"wash.jpg",
@@ -43,7 +43,7 @@ product1= [{
 {
     "id":5,
     "title":"deodrant",
-    "price":"192",
+    "price":" &#x20b9 192",
     "description":"amazon cotton size-28 ",
     "brand":"nivea",
     "image":"deo.jpg",
@@ -65,7 +65,7 @@ product2= [{
     "id":1,
     "title":"Facewash",
     "price":"&#x20b9 169",
-    "description":"amazon suti",
+    "description":"Purifying Neem Face Wash 200ml",
     "brand":"Himalaya",
     "image":"facewash.jpg",
     "link":"https://dl.flipkart.com/dl/dinine-craft-set-4-showpiece-home-decor-handicraft-table-office-small-statue-baby-monk-buddha-modern-interior-multi-color-decorative-cm/p/itmd22b42bd5e2f3?pid=SHIFYG8APACZRPM8&cmpid=product.share.pp&_refId=PP.79354b88-e4c7-4cc4-b9df-ad3127fc1953.SHIFYG8APACZRPM8&_appId=WA "
@@ -80,15 +80,15 @@ product2= [{
 },{
     "id":3,
     "title":"Lip balm",
-    "price":"400",
+    "price":" &#x20b9 400",
     "description":"amazon cotton",
     "brand":"baby wear",
-    "image":"skin2.jpg" ,
-    "link":"https://www.amazon.in/"
+    "image":"lipbalm.jpg" ,
+    "link":"https://dl.flipkart.com/dl/aceeaura-pink-magic-lip-balm-dry-chapped-lips-glossy-strawberry-flavor-pack-3/p/itm6177023975fc6?pid=LSKGEQHGGR5ZZJGZ&cmpid=product.share.pp&_refId=PP.7870c7ff-8cee-4583-a408-6ef7f544a4c2.LSKGEQHGGR5ZZJGZ&_appId=CL"
 },{
     "id":4,
     "title":"Fash Mask",
-    "price":"500",
+    "price":" &#x20b9 500",
     "description":"amazon cotton size-28 ",
     "brand":"pusha",
     "image":"wash.jpg",
@@ -98,7 +98,7 @@ product2= [{
 {
     "id":5,
     "title":"Deodrant",
-    "price":"500",
+    "price":" &#x20b9 500",
     "description":"have pleasant smell with sweat absorbing properties ",
     "brand":"Nivea",
     "image":"deo.jpg",
@@ -119,8 +119,8 @@ product3= [{
 },{
     "id":1,
     "title":"Facewash",
-    "price":"&#x20b9 138",
-    "description":"amazon suti",
+    "price":"&#x20b9 104",
+    "description":"for men and women both.antibacterial and antifumgal",
     "brand":"Himalya",
     "image":"facewash.jpg",
     "link":"https://www.meesho.com/s/p/2hz4hf?utm_source=s_w"
@@ -135,15 +135,15 @@ product3= [{
 },{
     "id":3,
     "title":"lipbalm",
-    "price":"400",
+    "price":" &#x20b9 400",
     "description":"amazon cotton",
     "brand":"baby wear",
-    "image":"skin2.jpg" ,
-    "link":"https://www.amazon.in/"
+    "image":"lipbalm.jpg" ,
+    "link":"https://www.meesho.com/s/p/2EJQK3?utm_source=ws"
 },{
     "id":4,
     "title":"fask mask",
-    "price":"500",
+    "price":" &#x20b9 500",
     "description":"amazon cotton size-28 ",
     "brand":"jordan",
     "image":"wash.jpg",
@@ -153,7 +153,7 @@ product3= [{
 {
     "id":5,
     "title":"Deodrant",
-    "price":"500",
+    "price":" &#x20b9 500",
     "description":"have best sweat absorbing property ",
     "brand":"Nevea",
     "image":"deo.jpg",
