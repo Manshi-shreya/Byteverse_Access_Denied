@@ -11,7 +11,7 @@ html{
 } 
 
 #navbar{
-    background-color: rgb(174, 23, 171);
+    background-color: rgb(220, 126, 18);
     display: flex;
     align-items: center;
     height: 50px;
@@ -19,7 +19,7 @@ html{
 }
 #navbar::before{
     content: "";
-    background: #c553c5;
+    background:rgb(228 150 61);
     position: absolute;
     top:0px;
     left:0px;
@@ -41,9 +41,9 @@ html{
 }
 
 .btn:hover{
-    background-color: rgb(230, 153, 219);
+    background-color: rgb(228 150 61);
     color: #1a191a;
-    border: 1px solid #c553c5;
+    border: 1px solid rgb(228 150 61);
 }
 #logo h1{
     color:black;
@@ -53,12 +53,13 @@ html{
 }
 #navbar ul{
     position: absolute;
-    right: 10px;
+    left:165px;
     display: flex;
     font-family: 'Baloo Bhai', cursive;
 }
 
 #navbar ul li{
+    
     margin-top: 17px;
     list-style: none;
     font-size: 1.3rem;
@@ -66,6 +67,7 @@ html{
 }
 
 #navbar ul li a{
+    
     color: white;
     display: block;
     padding: 3px 22px;
@@ -122,7 +124,7 @@ html{
     left:180px;
    padding: 6px 20px;
    border: 2px solid white;
-   background-color:#c553c5;
+   background-color:rgb(222, 150, 67);
    color: white;
    margin-top: 120px;
    font-size: 1.2rem;
@@ -137,7 +139,7 @@ html{
     border-radius: 5px;
     cursor:pointer;
     border: 1px solid white;
-   background-color:#c553c5;
+   background-color:rgb(228 150 61);
    color: white;
    margin-left:20px ;
    margin-top: 25px;
@@ -147,7 +149,7 @@ html{
     font-size: 1.8rem;
 }
 h3{
-    color: #be2ebe;
+    color: rgb(160, 89, 7);
 }
 #open{
     background-color:white/* aqua;*/;
