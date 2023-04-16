@@ -12,7 +12,7 @@
     
     /*#navbar{
         height: 50px;
-        background-color: #980798;
+        background-color: rgb(228 150 61);
         display: flex;
         align-items: center;
         /* position: sticky; */
@@ -52,7 +52,7 @@
     
     #logo{
         margin: 10px 34px;
-        color:white
+        color:white;
     }
     
     #logo img{
@@ -60,7 +60,7 @@
         font-size: xx-large;
         font-weight: 600;
         font-family: 'Bree Sherif';
-        height: 59px;
+        height: 54px;
         margin: 3px 6px;
     }
     
@@ -103,8 +103,13 @@
     /* #heading{
         
         font-size: 1.5rem;
+<<<<<<< HEAD
         color: #d53fd5;
     } */
+=======
+        color: rgb(228 150 61);
+    }
+>>>>>>> 3ff1623fca4b1ed35099ee76b80cf78fd12f851d
     #navbar ul li a:hover{
         color: black;
         background-color: white;
@@ -302,7 +307,7 @@ color: rgb(236, 230, 218);
     
     #services{
         border-radius: 7px;
-        background-color: #eeddee;
+        background-color: rgb(249 233 216);
         margin: 20px;
         display: flex;
         padding: 50px;
@@ -440,13 +445,13 @@ color: rgb(236, 230, 218);
     }
     #categories button:hover{
         color: white;
-        background-color: #c553c5;
+        background-color: rgb(228 150 61);
     }
     
     .h-primary{
         justify-content: left;
         margin-top: 20px;
-        background-color:#e985e9;
+        background-color:rgb(228 150 61);
         color:white;
         font-family: 'Bree Serif', serif;
         font-size: 3.8rem;
@@ -469,21 +474,21 @@ color: rgb(236, 230, 218);
         
     }
     #login{
-        height: 33px;
-        position: absolute;
-        right: 10px;
-        padding: 6px 20px;
-        border: 2px solid white;
-        background-color:white;
-        color: black;
-        margin: 17px;
-        font-size: 1.2rem;
-        border-radius: 10px;
-        cursor:pointer;
+        height: 34px;
+    position: absolute;
+    right: 43px;
+    padding: 5px 23px;
+    border: 2px solid white;
+    background-color: white;
+    color: black;
+    margin: -17px;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    cursor: pointer;
     }
     
     #ab{
-        background-color: #e2cde4;;
+        background-color: rgb(254 205 151);
         border-radius: 20px;
     }
      .sub{
@@ -526,7 +531,7 @@ color: rgb(236, 230, 218);
     }
      
     .sub:hover{
-        background-color: #c553c5 ;
+        background-color: rgb(228 150 61) ;
         color:white ;
     }
     #feed{
@@ -555,7 +560,7 @@ color: rgb(236, 230, 218);
         color: rgb(0, 0, 123);
      }
      .aa a:hover{
-        color: black;
+        color: rgb(43, 40, 40);
      }
      .an{
         text-align: center;
@@ -568,6 +573,7 @@ color: rgb(236, 230, 218);
      }
     
      #contact{
+        background-color:  rgb(249 233 216);
         font-size: 1.5rem;
         margin-top: 232px;
         position: relative;
@@ -625,7 +631,7 @@ color: rgb(236, 230, 218);
     
     }
     #categories h1{
-        background-color:rgb(237 116 216);
+        background-color:rgb(228 150 61);
         color: white;
     }
 
@@ -650,5 +656,6 @@ color: rgb(236, 230, 218);
         width: 50%;
         margin-left: 320px;
     }
-    
-    
+    @media only screen and (max-width: 768px){
+        width: 100%;
+    }
