@@ -29,7 +29,7 @@ product1= [{
     "description":"Care Instructions: Machine Wash,Material - Cotton Made from superior material and perfect Sports Socks,Made with soft & ultra-breathable Mercerised Cotton with mesh design",
     "brand":"Generic",
     "image":"socks.jpg" ,
-    "link":"Check this out! https://amzn.eu/d/ch8Ep6u "
+    "link":" https://amzn.eu/d/ch8Ep6u "
 },
 {
     "id":4,
