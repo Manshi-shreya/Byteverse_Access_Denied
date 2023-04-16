@@ -114,7 +114,7 @@ product3= [{
     "price":"",
     "description":"",
     "brand":"",
-    "image":"",
+    // "image":""
     "link":"https://www.amazon.in/"
 },{
     "id":1,
