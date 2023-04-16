@@ -10,3 +10,6 @@ Byteverse Hackathon Project
 **7.Select the desirable product from "Select Anyone dropdown" on all the three sections of different websites. **
 **8.You can see the comparison of brand, description , price of same product.**
 **9.Click on "Click to buy" button and you will be redirected to that particular website having that product and from there you can buy it.**
+**website deployed link--https://manshi-shreya.github.io/Byteverse_Access_Denied/**
+**ppt link-- https://docs.google.com/presentation/d/1jxAR7r7e1mx75tyOQfl-4uo8spUo-BMi/edit?usp=share_link&ouid=107878796174703202074&rtpof=true&sd=true**
+**video link--https://drive.google.com/file/d/1GDajbT_PPMhzd6z-HHY3Oe7bTxLggOCr/view?usp=share_link**
