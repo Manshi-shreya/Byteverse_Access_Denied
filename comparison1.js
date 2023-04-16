@@ -119,7 +119,7 @@ product3= [{
 },{
     "id":1,
     "title":"shirt",
-    "price":"349 ",
+    "price":"349",
     "description":"White solid opaque Casual shirt ,has a spread collar, button placket, 1 patch pocket, long roll-up sleeves, curved hem",
     "brand":"Dennis Lingo",
     "image":"shirt1.jpeg",
