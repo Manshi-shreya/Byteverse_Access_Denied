@@ -239,7 +239,7 @@ margin-top: -340px;
 .head1{
     margin-left: 100px;
     font-size: 40px;
-    color: rgb(199, 126, 138);
+    color: rgb(216, 41, 70);
 }
 #hehe{
     margin-left: 100px;
@@ -315,7 +315,7 @@ color: rgb(236, 230, 218);
     #services .box{ 
         height: 33%;
         width: 33%;
-        border: 2px solid #e28de2;
+        border: 2px solid rgb(228 150 61);
         padding: 10px;
         margin: 2px 55px;
         border-radius: 28px;
@@ -340,6 +340,12 @@ color: rgb(236, 230, 218);
         font-family: 'Bree Serif', serif;
     
     } 
+    #logo{
+        margin-top: 30px;
+    }
+    #log{
+        margin-top: 5px;
+    }
     #client-section{
         position: relative;
     }
