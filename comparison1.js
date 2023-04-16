@@ -8,23 +8,23 @@ product1= [{
     "link":"https://www.amazon.in/"
 },{
     "id":1,
-    "title":"shirt",
-    "price":"Rs.473",
-    "description":"GRITSMAD Men's Slim Fit Cotton Full Sleeve Casual Shirt White",
-    "brand":"GRITSMAD",
-    "image":"shirt1.jpeg",
-    "link":"https://amzn.eu/d/bOgSiOZ "
+    "title":"Facewash",
+    "price":"&#x20b9 179",
+    "description":"amazon suti",
+    "brand":"himalaya",
+    "image":"facewash.jpg",
+    "link":"https://amzn.eu/d/5xehnB0"
 },{
     "id":2,
-    "title":"jewellery",
-    "price":"300",
-    "description":"amazon suti",
-    "brand":"anarkali",
-    "image":"bg2.jpg" ,
-    "link":"https://www.amazon.in/"
+    "title":"moisturizer",
+    "price":"&#x20b9 290",
+    "description":"best suited for all skin type",
+    "brand":"Mamaearth",
+    "image":"moi.jpg" ,
+    "link":"https://www.amazon.in/dp/B07STDDDGF?ref_=cm_sw_r_mwn_dp_S3PC73W4W8RCPTF9PK9F"
 },{
     "id":3,
-    "title":"shoes",
+    "title":"lipbalm",
     "price":"400",
     "description":"amazon cotton",
     "brand":"baby wear",
@@ -32,7 +32,7 @@ product1= [{
     "link":"https://www.amazon.in/"
 },{
     "id":4,
-    "title":"belt",
+    "title":"Fask mask",
     "price":"500",
     "description":"amazon cotton size-28 ",
     "brand":"denim",
@@ -42,11 +42,11 @@ product1= [{
 },
 {
     "id":5,
-    "title":"socks",
-    "price":"500",
+    "title":"deodrant",
+    "price":"192",
     "description":"amazon cotton size-28 ",
-    "brand":"denim",
-    "image":"jeans.avif",
+    "brand":"nivea",
+    "image":"deo.jpg",
     "link":"https://www.amazon.in/" 
 
 }
@@ -61,25 +61,25 @@ product2= [{
     "brand":"",
     "image":"",
     "link":"https://www.amazon.in/"
-},{ 
+},{
     "id":1,
-"title":"shirt",
-"price":"595",
-"description":"Style Code-TS-SHIRT1083, Secondary Color-White,Closure-BUTTON, Fit-Slim,Fabric-Pure Cotton,Sleeve-Full Sleeve",
-"brand":"tanip",
-"image":"shirt.jpeg",
-"link":"https://dl.flipkart.com/dl/tanip-men-solid-casual-white-shirt/p/itmd7ac59f3558d1?pid=SHTG9UJFPDNUZDKH&cmpid=product.share.pp&_refId=PP.3c3256a3-cb75-46d3-a883-1137e4c9550c.SHTG9UJFPDNUZDKH&_appId=WA "
+    "title":"Facewash",
+    "price":"&#x20b9 169",
+    "description":"amazon suti",
+    "brand":"Himalaya",
+    "image":"facewash.jpg",
+    "link":"https://dl.flipkart.com/dl/dinine-craft-set-4-showpiece-home-decor-handicraft-table-office-small-statue-baby-monk-buddha-modern-interior-multi-color-decorative-cm/p/itmd22b42bd5e2f3?pid=SHIFYG8APACZRPM8&cmpid=product.share.pp&_refId=PP.79354b88-e4c7-4cc4-b9df-ad3127fc1953.SHIFYG8APACZRPM8&_appId=WA "
 },{
     "id":2,
-    "title":"jewellery",
-    "price":"300",
-    "description":"amazon suti",
-    "brand":"anarkali",
-    "image":"bg2.jpg" ,
-    "link":"https://www.amazon.in/"
+    "title":"Mosturizer",
+    "price":" &#x20b9 300",
+    "description":"best suited for all skin type",
+    "brand":"mamaearth",
+    "image":"moi.jpg" ,
+    "link":"https://amzn.eu/d/hYp1f3y"
 },{
     "id":3,
-    "title":"shoes",
+    "title":"Lip balm",
     "price":"400",
     "description":"amazon cotton",
     "brand":"baby wear",
@@ -87,7 +87,7 @@ product2= [{
     "link":"https://www.amazon.in/"
 },{
     "id":4,
-    "title":"belt",
+    "title":"Fash Mask",
     "price":"500",
     "description":"amazon cotton size-28 ",
     "brand":"pusha",
@@ -97,12 +97,12 @@ product2= [{
 },
 {
     "id":5,
-    "title":"socks",
+    "title":"Deodrant",
     "price":"500",
-    "description":"amazon cotton size-28 ",
-    "brand":"denim",
-    "image":"jeans.avif",
-    "link":"https://www.amazon.in/" 
+    "description":"have pleasant smell with sweat absorbing properties ",
+    "brand":"Nivea",
+    "image":"deo.jpg",
+    "link":"https://amzn.eu/d/hvOMT28" 
 
 }
 ];
@@ -118,24 +118,23 @@ product3= [{
     "link":"https://www.amazon.in/"
 },{
     "id":1,
-    "title":"shirt",
-    "price":"349 ",
-    "description":"White solid opaque Casual shirt ,has a spread collar, button placket, 1 patch pocket, long roll-up sleeves, curved hem",
-    "brand":"Dennis Lingo",
-    "image":"shirt1.jpeg",
-    "link":"https://www.myntra.com/topwear/dennis-lingo/dennis-lingo-men-white-modern-slim-fit-opaque-casual-shirt/15187584/"
-    
+    "title":"Facewash",
+    "price":"&#x20b9 138",
+    "description":"amazon suti",
+    "brand":"Himalya",
+    "image":"facewash.jpg",
+    "link":"https://www.meesho.com/s/p/2hz4hf?utm_source=s_w"
 },{
     "id":2,
-    "title":"jewellery",
-    "price":"300",
-    "description":"amazon suti",
-    "brand":"anarkali",
-    "image":"bg2.jpg" ,
-    "link":"https://www.amazon.in/"
+    "title":"Mosturizer",
+    "price":"&#x20b9 285",
+    "description":"best suited for all skin type",
+    "brand":"mamaearth",
+    "image":"moi.jpg" ,
+    "link":"https://dl.flipkart.com/dl/mama-earth-oil-free-face-moisturiser-80-gm-x-1/p/itmeea8882e77ffd?pid=MZMGGF6WAFZKHZZP&cmpid=product.share.pp&_refId=PP.8a8d7d4a-936d-49c8-8a78-b54033bc8de4.MZMGGF6WAFZKHZZP&_appId=WA"
 },{
     "id":3,
-    "title":"shoes",
+    "title":"lipbalm",
     "price":"400",
     "description":"amazon cotton",
     "brand":"baby wear",
@@ -143,7 +142,7 @@ product3= [{
     "link":"https://www.amazon.in/"
 },{
     "id":4,
-    "title":"belt",
+    "title":"fask mask",
     "price":"500",
     "description":"amazon cotton size-28 ",
     "brand":"jordan",
@@ -153,11 +152,11 @@ product3= [{
 },
 {
     "id":5,
-    "title":"socks",
+    "title":"Deodrant",
     "price":"500",
-    "description":"amazon cotton size-28 ",
-    "brand":"denim",
-    "image":"jeans.avif",
+    "description":"have best sweat absorbing property ",
+    "brand":"Nevea",
+    "image":"deo.jpg",
     "link":"https://www.amazon.in/" 
 
 }
