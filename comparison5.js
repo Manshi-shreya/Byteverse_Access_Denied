@@ -8,7 +8,7 @@ product1= [{
     "link":"https://www.amazon.in/"
 },{
     "id":1,
-    "title":"Facewash",
+    "title":"showpeice",
     "price":"&#x20b9 179",
     "description":"amazon suti",
 <<<<<<< HEAD
@@ -21,7 +21,7 @@ product1= [{
     "link":"https://amzn.eu/d/5xehnB0"
 },{
     "id":2,
-    "title":"moisturizer",
+    "title":"curtain",
     "price":"300",
     "description":"amazon suti",
     "brand":"anarkali",
@@ -29,7 +29,7 @@ product1= [{
     "link":"https://www.amazon.in/"
 },{
     "id":3,
-    "title":"lipbalm",
+    "title":"crockery",
     "price":"400",
     "description":"amazon cotton",
     "brand":"baby wear",
@@ -37,7 +37,7 @@ product1= [{
     "link":"https://www.amazon.in/"
 },{
     "id":4,
-    "title":"Fask mask",
+    "title":"mat",
     "price":"500",
     "description":"amazon cotton size-28 ",
     "brand":"denim",
@@ -47,7 +47,7 @@ product1= [{
 },
 {
     "id":5,
-    "title":"deodrant",
+    "title":"vase",
     "price":"500",
     "description":"amazon cotton size-28 ",
     "brand":"denim",
@@ -68,7 +68,7 @@ product2= [{
     "link":"https://www.amazon.in/"
 },{
     "id":1,
-    "title":"Facewash",
+    "title":"Showpeice",
     "price":"&#x20b9 169",
     "description":"amazon suti",
 <<<<<<< HEAD
@@ -82,7 +82,7 @@ product2= [{
 >>>>>>> 856f8463e9156250f39e6583aecf48ebb8fd299c
 },{
     "id":2,
-    "title":"Mosturizer",
+    "title":"curtain",
     "price":"300",
     "description":"amazon suti",
     "brand":"anarkali",
@@ -90,7 +90,7 @@ product2= [{
     "link":"https://www.amazon.in/"
 },{
     "id":3,
-    "title":"Lip balm",
+    "title":"crockery",
     "price":"400",
     "description":"amazon cotton",
     "brand":"baby wear",
@@ -98,7 +98,7 @@ product2= [{
     "link":"https://www.amazon.in/"
 },{
     "id":4,
-    "title":"Fash Mask",
+    "title":"mat",
     "price":"500",
     "description":"amazon cotton size-28 ",
     "brand":"pusha",
@@ -108,7 +108,7 @@ product2= [{
 },
 {
     "id":5,
-    "title":"Deodrant",
+    "title":"vase",
     "price":"500",
     "description":"amazon cotton size-28 ",
     "brand":"denim",
@@ -129,7 +129,7 @@ product3= [{
     "link":"https://www.amazon.in/"
 },{
     "id":1,
-    "title":"Facewash",
+    "title":"showpeice",
     "price":"&#x20b9 138",
     "description":"amazon suti",
 <<<<<<< HEAD
@@ -143,7 +143,7 @@ product3= [{
 >>>>>>> 856f8463e9156250f39e6583aecf48ebb8fd299c
 },{
     "id":2,
-    "title":"Mosturizer",
+    "title":"curtain",
     "price":"300",
     "description":"amazon suti",
     "brand":"anarkali",
@@ -151,7 +151,7 @@ product3= [{
     "link":"https://www.amazon.in/"
 },{
     "id":3,
-    "title":"lipbalm",
+    "title":"crockery",
     "price":"400",
     "description":"amazon cotton",
     "brand":"baby wear",
@@ -159,7 +159,7 @@ product3= [{
     "link":"https://www.amazon.in/"
 },{
     "id":4,
-    "title":"fask mask",
+    "title":"mat",
     "price":"500",
     "description":"amazon cotton size-28 ",
     "brand":"jordan",
@@ -169,7 +169,7 @@ product3= [{
 },
 {
     "id":5,
-    "title":"Deodrant",
+    "title":"vase",
     "price":"500",
     "description":"amazon cotton size-28 ",
     "brand":"denim",

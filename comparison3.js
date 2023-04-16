@@ -25,7 +25,7 @@ product1= [{
 },{
     "id":3,
     "title":"Refrigirator",
-    "price":"10,990",
+    "price":" &#x20b9 10,990",
     "description":"Direct Cool Refrigerator: Economical and stylish Direct- Cool Refrigerator with Capacity: 180 litres, suitable for a small family",
     "brand":"godrej",
     "image":"refri.jpg" ,
@@ -33,7 +33,7 @@ product1= [{
 },{
     "id":4,
     "title":"Smartphone",
-    "price":"18,990",
+    "price":"&#x20b9 18,990",
     "description":"Camera: 64MP Main Camera with EIS; 2MP Depth Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP Sony IMX471 ",
     "brand":"one plus",
     "image":"smart.jpg",
@@ -43,7 +43,7 @@ product1= [{
 {
     "id":5,
     "title":"Fan",
-    "price":"1,299",
+    "price":" &#x20b9 1,299",
     "description":"Sweep : 1200mm, Power : 56W, Air Delivery : 205CMM;Double Ball Bearing : Increases load bearing capacity and durability",
     "brand":"Bajaj",
     "image":"fann.jpg",

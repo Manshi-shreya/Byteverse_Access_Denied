@@ -9,7 +9,7 @@ product1= [{
 },{
     "id":1,
     "title":"belt",
-    "price":"Rs.127",
+    "price":" &#x20b9 127",
     "description":"NESSME Women's Faux Leather Belt Black Double-O-Ring Silver (36)",
     "brand":"NESSME",
     "image":"belt.jpg",
@@ -17,7 +17,7 @@ product1= [{
 },{
     "id":2,
     "title":"shoes",
-    "price":"Rs.499",
+    "price":" &#x20b9 499",
     "description":"Sole: Ethylene Vinyl Acetate,Closure: Lace-Up,Fit Type: Regular,Shoe Width: Medium",
     "brand":"CLYMB",
     "image":"shoe.jpg" ,
@@ -25,7 +25,7 @@ product1= [{
 },{
     "id":3,
     "title":"socks",
-    "price":"Rs.330",
+    "price":" &#x20b9 330",
     "description":"Care Instructions: Machine Wash,Material - Cotton Made from superior material and perfect Sports Socks,Made with soft & ultra-breathable Mercerised Cotton with mesh design",
     "brand":"Generic",
     "image":"socks.jpg" ,
@@ -34,7 +34,7 @@ product1= [{
 {
     "id":4,
     "title":"jewellery",
-    "price":"Rs.139",
+    "price":" &#x20b9 139",
     "description":" Brado Jewellery Micro Gold Plated White American Diamond Square & One Love Heart Shape Pendant With Love Heart Chain Combo Of 3 Necklace for Women & Girls (Yellow)",
     "brand":"Brado",
     "image":"jewel.jpg",
@@ -44,7 +44,7 @@ product1= [{
 {
     "id":5,
     "title":"bag",
-    "price":"Rs.",
+    "price":"&#x20b9",
     "description":" ",
     "brand":"",
     "image":"",
@@ -56,7 +56,7 @@ product1= [{
 product2= [{
     "id":0,
     "title":"",
-    "price":"",
+    "price":"&#x20b9",
     "description":"",
     "brand":"",
     "image":"",
@@ -64,7 +64,7 @@ product2= [{
 },{
     "id":1,
     "title":"belt",
-    "price":"239",
+    "price":" &#x20b9 239",
     "description":"Women Casual, Party, Formal, Evening Black Genuine Leather Belt",
     "brand":"Next Look",
     "image":"belt.jpg",
@@ -72,7 +72,7 @@ product2= [{
 },{
     "id":2,
     "title":"shoes",
-    "price":"Rs.499",
+    "price":" &#x20b9 499",
     "description":"Color,Blue-Inner material,Skin Fit,Outer material-Synthetic Leather",
     "brand":"CLYMB",
     "image":"shoe.jpg" ,
@@ -80,7 +80,7 @@ product2= [{
 },{
     "id":3,
     "title":"socks",
-    "price":"400",
+    "price":"&#x20b9 500",
     "description":"Fabric-COTTON,Type-Ankle Length, Calf Length, Mid-Calf/Crew Socks,Series-PRINTED",
     "brand":"Nicsy",
     "image":"socks.jpg" ,
@@ -88,7 +88,7 @@ product2= [{
 },{
     "id":4,
     "title":"jewellery",
-    "price":"Rs.219",
+    "price":" &#x20b9 219",
     "description":"Color-Gold,Model Name-Micro Gold Plated White American Diamond Square And One Love Heart Shape Pendant With Satari Chain Combo Of 3 Necklace Golden Chain Pendant for Women and Girls,Model Number-BJ-White-SP-H S C",
     "brand":"brado",
     "image":"jewel.jpg",
@@ -98,7 +98,7 @@ product2= [{
 {
     "id":5,
     "title":"bag",
-    "price":"Rs.",
+    "price":"&#x20b9",
     "description":"",
     "brand":"",
     "image":"",
@@ -119,7 +119,7 @@ product3= [{
 },{
     "id":1,
     "title":"belt",
-    "price":"159",
+    "price":" &#x20b9 159",
     "description":"Multicolor Artificial Leather Belt,Material : Faux Leather/Leatherette,Pattern:Solid",
     "brand":"VK ENT",
     "image":"belt.jpg",
@@ -127,7 +127,7 @@ product3= [{
 },{
     "id":2,
     "title":"Shoes",
-    "price":"Rs.598",
+    "price":" &#x20b9 598",
     "description":"9380 Blue Trendy & Stylish Sports Running,Material : PVC,Sole Material : PVC,Pattern : Solid",
     "brand":"A S Traders",
     "image":"shoe.jpg" ,
@@ -135,7 +135,7 @@ product3= [{
 },{
     "id":3,
     "title":"socks",
-    "price":"181",
+    "price":" &#x20b9 181",
     "description":"Pattern : Solid,Type : Regular,5 PAIRS Women's Cotton Ankle Length Sports Socks (Free Size_Multi Color)",
     "brand":"Nicsy",
     "image":"socks.jpg" ,
@@ -143,7 +143,7 @@ product3= [{
 },{
     "id":4,
     "title":"jewellery",
-    "price":"Rs.129",
+    "price":"&#x20b9 129",
     "description":" Plating : Gold Plated,Stone Type : Onyx,Type : Pendant with Chain,Net Quantity (N) : 3",
     "brand":"-NA-",
     "image":"jewel.jpg",
