@@ -122,6 +122,8 @@
         padding: 50px;
     }
     #services .box{ 
+        height: 33%;
+        width: 33%;
         border: 2px solid #e28de2;
         padding: 10px;
         margin: 2px 55px;
@@ -222,6 +224,7 @@
         width: 368%;
     }
     #services-container form{
+        
         text-align: center;
         position:absolute;
         left: 430px;
@@ -263,6 +266,7 @@
         font-size: 3.8rem;
         padding: 2px;
     }
+    
     
     .h-secondary{
         font-family: 'Bree Serif', serif;
@@ -340,6 +344,7 @@
         color:white ;
     }
     #feed{
+        background-color: #eeddee;
         justify-content: center;
         align-items: center;
     }
@@ -364,12 +369,13 @@
         color: rgb(0, 0, 123);
      }
      .aa a:hover{
-        color: white;
+        color: black;
      }
      .an{
         text-align: center;
      }
-     footer{
+
+    footer{
         background-color: black;
         color: white;
         padding: 9px 20px;
