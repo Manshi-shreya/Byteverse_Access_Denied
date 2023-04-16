@@ -8,6 +8,7 @@ product1= [{
     "link":"https://www.amazon.in/"
 },{
     "id":1,
+<<<<<<< HEAD
     "title":"Facewash",
     "price":"&#x20b9 179",
     "description":"amazon suti",
@@ -26,14 +27,39 @@ product1= [{
     "id":3,
     "title":"lipbalm",
     "price":"400",
+=======
+    "title":"facewash",
+    "price":"&#x20b9 187",
+    "description":"GRITSMAD Men's Slim Fit Cotton Full Sleeve Casual Shirt White",
+    "brand":"himalaya",
+    "image":"facewash.jpg",
+    "link":"https://amzn.eu/d/gGPVcfN"
+},{
+    "id":2,
+    "title":"jewellery",
+    "price":"&#x20b9 300",
+    "description":"amazon suti",
+    "brand":"anarkali",
+    "image":"bg2.jpg" ,
+    "link":"https://www.amazon.in/"
+},{
+    "id":3,
+    "title":"shoes",
+    "price":"&#x20b9 400",
+>>>>>>> e0d0082136b5f8f30b110f1fba000f8e69951cc7
     "description":"amazon cotton",
     "brand":"baby wear",
     "image":"skin2.jpg" ,
     "link":"https://www.amazon.in/"
 },{
     "id":4,
+<<<<<<< HEAD
     "title":"Fask mask",
     "price":"500",
+=======
+    "title":"belt",
+    "price":"&#x20b9 500",
+>>>>>>> e0d0082136b5f8f30b110f1fba000f8e69951cc7
     "description":"amazon cotton size-28 ",
     "brand":"denim",
     "image":"wash.jpg",
@@ -42,8 +68,13 @@ product1= [{
 },
 {
     "id":5,
+<<<<<<< HEAD
     "title":"deodrant",
     "price":"192",
+=======
+    "title":"socks",
+    "price":"&#x20b9 500",
+>>>>>>> e0d0082136b5f8f30b110f1fba000f8e69951cc7
     "description":"amazon cotton size-28 ",
     "brand":"nivea",
     "image":"deo.jpg",
@@ -63,6 +94,7 @@ product2= [{
     "link":"https://www.amazon.in/"
 },{
     "id":1,
+<<<<<<< HEAD
     "title":"Facewash",
     "price":"&#x20b9 169",
     "description":"amazon suti",
@@ -81,14 +113,39 @@ product2= [{
     "id":3,
     "title":"Lip balm",
     "price":"400",
+=======
+"title":"fashwash",
+"price":"&#x20b9 595",
+"description":"Style Code-TS-SHIRT1083, Secondary Color-White,Closure-BUTTON, Fit-Slim,Fabric-Pure Cotton,Sleeve-Full Sleeve",
+"brand":"himalaya",
+"image":"facewash.jpg",
+"link":"https://dl.flipkart.com/dl/tanip-men-solid-casual-white-shirt/p/itmd7ac59f3558d1?pid=SHTG9UJFPDNUZDKH&cmpid=product.share.pp&_refId=PP.3c3256a3-cb75-46d3-a883-1137e4c9550c.SHTG9UJFPDNUZDKH&_appId=WA "
+},{
+    "id":2,
+    "title":"jewellery",
+    "price":"&#x20b9 300",
+    "description":"amazon suti",
+    "brand":"anarkali",
+    "image":"bg2.jpg" ,
+    "link":"https://www.amazon.in/"
+},{
+    "id":3,
+    "title":"shoes",
+    "price":"&#x20b9 400",
+>>>>>>> e0d0082136b5f8f30b110f1fba000f8e69951cc7
     "description":"amazon cotton",
     "brand":"baby wear",
     "image":"skin2.jpg" ,
     "link":"https://www.amazon.in/"
 },{
     "id":4,
+<<<<<<< HEAD
     "title":"Fash Mask",
     "price":"500",
+=======
+    "title":"belt",
+    "price":"&#x20b9 500",
+>>>>>>> e0d0082136b5f8f30b110f1fba000f8e69951cc7
     "description":"amazon cotton size-28 ",
     "brand":"pusha",
     "image":"wash.jpg",
@@ -97,12 +154,21 @@ product2= [{
 },
 {
     "id":5,
+<<<<<<< HEAD
     "title":"Deodrant",
     "price":"500",
     "description":"have pleasant smell with sweat absorbing properties ",
     "brand":"Nivea",
     "image":"deo.jpg",
     "link":"https://amzn.eu/d/hvOMT28" 
+=======
+    "title":"socks",
+    "price":"&#x20b9 500",
+    "description":"amazon cotton size-28 ",
+    "brand":"denim",
+    "image":"jeans.avif",
+    "link":"https://www.amazon.in/" 
+>>>>>>> e0d0082136b5f8f30b110f1fba000f8e69951cc7
 
 }
 ];
@@ -118,6 +184,7 @@ product3= [{
     "link":"https://www.amazon.in/"
 },{
     "id":1,
+<<<<<<< HEAD
     "title":"Facewash",
     "price":"&#x20b9 138",
     "description":"amazon suti",
@@ -136,14 +203,40 @@ product3= [{
     "id":3,
     "title":"lipbalm",
     "price":"400",
+=======
+    "title":"facewash",
+    "price":"&#x20b9 349",
+    "description":"White solid opaque Casual shirt ,has a spread collar, button placket, 1 patch pocket, long roll-up sleeves, curved hem",
+    "brand":"himalaya",
+    "image":"facewash.jpg",
+    "link":"https://www.myntra.com/skin-care/himalaya/himalaya-purifying-neem-face-wash-200ml/6628423/buy"
+    
+},{
+    "id":2,
+    "title":"jewellery",
+    "price":"&#x20b9 300",
+    "description":"amazon suti",
+    "brand":"anarkali",
+    "image":"bg2.jpg" ,
+    "link":"https://www.amazon.in/"
+},{
+    "id":3,
+    "title":"shoes",
+    "price":"&#x20b9 400",
+>>>>>>> e0d0082136b5f8f30b110f1fba000f8e69951cc7
     "description":"amazon cotton",
     "brand":"baby wear",
     "image":"skin2.jpg" ,
     "link":"https://www.amazon.in/"
 },{
     "id":4,
+<<<<<<< HEAD
     "title":"fask mask",
     "price":"500",
+=======
+    "title":"belt",
+    "price":"&#x20b9 500",
+>>>>>>> e0d0082136b5f8f30b110f1fba000f8e69951cc7
     "description":"amazon cotton size-28 ",
     "brand":"jordan",
     "image":"wash.jpg",
@@ -152,11 +245,19 @@ product3= [{
 },
 {
     "id":5,
+<<<<<<< HEAD
     "title":"Deodrant",
     "price":"500",
     "description":"have best sweat absorbing property ",
     "brand":"Nevea",
     "image":"deo.jpg",
+=======
+    "title":"socks",
+    "price":"&#x20b9 500",
+    "description":"amazon cotton size-28 ",
+    "brand":"denim",
+    "image":"jeans.avif",
+>>>>>>> e0d0082136b5f8f30b110f1fba000f8e69951cc7
     "link":"https://www.amazon.in/" 
 
 }
