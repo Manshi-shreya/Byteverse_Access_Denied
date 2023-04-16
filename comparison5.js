@@ -8,15 +8,20 @@ product1= [{
     "link":"https://www.amazon.in/"
 },{
     "id":1,
-    "title":"bag",
-    "price":"300",
+    "title":"Facewash",
+    "price":"&#x20b9 179",
     "description":"amazon suti",
+<<<<<<< HEAD
     "brand":"anarkali",
     "image":"showpeice.jpg",
+=======
+    "brand":"himalaya",
+    "image":"facewash.jpg",
+>>>>>>> 856f8463e9156250f39e6583aecf48ebb8fd299c
     "link":"https://amzn.eu/d/5xehnB0"
 },{
     "id":2,
-    "title":"jewellery",
+    "title":"moisturizer",
     "price":"300",
     "description":"amazon suti",
     "brand":"anarkali",
@@ -24,7 +29,7 @@ product1= [{
     "link":"https://www.amazon.in/"
 },{
     "id":3,
-    "title":"shoes",
+    "title":"lipbalm",
     "price":"400",
     "description":"amazon cotton",
     "brand":"baby wear",
@@ -32,7 +37,7 @@ product1= [{
     "link":"https://www.amazon.in/"
 },{
     "id":4,
-    "title":"belt",
+    "title":"Fask mask",
     "price":"500",
     "description":"amazon cotton size-28 ",
     "brand":"denim",
@@ -42,7 +47,7 @@ product1= [{
 },
 {
     "id":5,
-    "title":"socks",
+    "title":"deodrant",
     "price":"500",
     "description":"amazon cotton size-28 ",
     "brand":"denim",
@@ -63,15 +68,21 @@ product2= [{
     "link":"https://www.amazon.in/"
 },{
     "id":1,
-    "title":"bag",
-    "price":"300",
+    "title":"Facewash",
+    "price":"&#x20b9 169",
     "description":"amazon suti",
+<<<<<<< HEAD
     "brand":"amra",
     "image":"showpeice.jpg",
     "link":"https://www.amazon.in/"
+=======
+    "brand":"Himalaya",
+    "image":"facewash.jpg",
+    "link":"https://dl.flipkart.com/dl/dinine-craft-set-4-showpiece-home-decor-handicraft-table-office-small-statue-baby-monk-buddha-modern-interior-multi-color-decorative-cm/p/itmd22b42bd5e2f3?pid=SHIFYG8APACZRPM8&cmpid=product.share.pp&_refId=PP.79354b88-e4c7-4cc4-b9df-ad3127fc1953.SHIFYG8APACZRPM8&_appId=WA "
+>>>>>>> 856f8463e9156250f39e6583aecf48ebb8fd299c
 },{
     "id":2,
-    "title":"jewellery",
+    "title":"Mosturizer",
     "price":"300",
     "description":"amazon suti",
     "brand":"anarkali",
@@ -79,7 +90,7 @@ product2= [{
     "link":"https://www.amazon.in/"
 },{
     "id":3,
-    "title":"shoes",
+    "title":"Lip balm",
     "price":"400",
     "description":"amazon cotton",
     "brand":"baby wear",
@@ -87,7 +98,7 @@ product2= [{
     "link":"https://www.amazon.in/"
 },{
     "id":4,
-    "title":"belt",
+    "title":"Fash Mask",
     "price":"500",
     "description":"amazon cotton size-28 ",
     "brand":"pusha",
@@ -97,7 +108,7 @@ product2= [{
 },
 {
     "id":5,
-    "title":"socks",
+    "title":"Deodrant",
     "price":"500",
     "description":"amazon cotton size-28 ",
     "brand":"denim",
@@ -118,15 +129,21 @@ product3= [{
     "link":"https://www.amazon.in/"
 },{
     "id":1,
-    "title":"bag",
-    "price":"300",
+    "title":"Facewash",
+    "price":"&#x20b9 138",
     "description":"amazon suti",
+<<<<<<< HEAD
     "brand":"anarkali",
     "image":"showpeice.jpg",
     "link":"https://www.amazon.in/"
+=======
+    "brand":"Himalya",
+    "image":"facewash.jpg",
+    "link":"https://www.meesho.com/s/p/2hz4hf?utm_source=s_w"
+>>>>>>> 856f8463e9156250f39e6583aecf48ebb8fd299c
 },{
     "id":2,
-    "title":"jewellery",
+    "title":"Mosturizer",
     "price":"300",
     "description":"amazon suti",
     "brand":"anarkali",
@@ -134,7 +151,7 @@ product3= [{
     "link":"https://www.amazon.in/"
 },{
     "id":3,
-    "title":"shoes",
+    "title":"lipbalm",
     "price":"400",
     "description":"amazon cotton",
     "brand":"baby wear",
@@ -142,7 +159,7 @@ product3= [{
     "link":"https://www.amazon.in/"
 },{
     "id":4,
-    "title":"belt",
+    "title":"fask mask",
     "price":"500",
     "description":"amazon cotton size-28 ",
     "brand":"jordan",
@@ -152,7 +169,7 @@ product3= [{
 },
 {
     "id":5,
-    "title":"socks",
+    "title":"Deodrant",
     "price":"500",
     "description":"amazon cotton size-28 ",
     "brand":"denim",
